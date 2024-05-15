@@ -1,6 +1,8 @@
 require 'pg'
 require 'io/console'
 
+#TODO: handle empty inputs!!
+
 print "Enter database name: (EX: pc_temp) "
 dbname = gets.chomp
 print "Enter username: "
