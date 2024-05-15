@@ -23,3 +23,10 @@ A Ruby script helps keep PostgreSQL database sequences in sync with table IDs. I
 ### Note:
 
 Ensure your PostgreSQL user has necessary permissions.
+
+### Resources:
+
+- [STDIN.noecho](https://ruby-doc.org/stdlib-2.2.1/libdoc/io/console/rdoc/IO.html#method-i-noecho)
+- [pg_get_serial_sequence](<https://pgpedia.info/p/pg_get_serial_sequence.html#:~:text=pg_get_serial_sequence()%20is%20a%20system,was%20added%20in%20PostgreSQL%208.0>.)
+- [information_schema](https://pgpedia.info/i/information-schema.html)
+- [setval](https://pgpedia.info/s/setval.html)
